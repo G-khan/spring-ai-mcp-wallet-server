@@ -4,9 +4,7 @@ This project is a simple wallet management backend that exposes REST APIs and in
 
 ---
 
-## Recent Updates
-
-### Spring AI Integration (2024)
+### Spring AI Integration 
 - Integrated Spring AI MCP Server starter
 - Annotated service methods with `@Tool` for AI tool exposure
 - Added configuration for MCP server operation
@@ -148,15 +146,3 @@ public List<ToolCallback> walletTools(WalletService walletService) {
      }
    }
    ```
-
----
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## Contributing
-
-Feel free to contribute to this project by submitting pull requests or creating issues for bugs and feature requests. 
