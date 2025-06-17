@@ -1,5 +1,7 @@
 # Finance Wallet MCP Server
 
+Article of the project: https://gokhana.medium.com/from-rest-api-to-mcp-server-convert-your-spring-apis-into-ai-tools-with-spring-ai-07b8f36b0212
+
 This project is a simple wallet management backend that exposes REST APIs and integrates with Spring AI's MCP (Model Context Protocol) server for AI-powered tool access.
 
 ---
